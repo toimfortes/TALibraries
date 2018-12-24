@@ -12,7 +12,7 @@ from keras.layers import Dense
 
 start_dt = '2014-03-22'
 end_dt = '2017-03-27'
-quandl.api_config.read_key = 'LbAygJD_Pr-wzJCh72M1'
+quandl.api_config.read_key = '*********************************'
 
 symbol = 'WIKI/AAPL'
 symbol2 = 'WIKI/IBM'
